@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Foldit:wght@100;400;800&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    width: vw;
+    height: vh;
+    background: #FFF;
+    
+    margin: 0 auto;
+}
+.nav{
+    display: flex;
+    text-decoration: none;
+    /* background-image: url(./images/yardoira.png); */
+    padding: 28px 90px;
+    justify-content: space-between;
+    
+}
+.nav a{
+    margin-right: 20px;
+    text-decoration: none;
+    color: #111;
+}
+.nav button{
+    padding: 12px 24px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 28px;
+    background: #000;
+    color: #FFF;
+}
+.container2{
+    display: flex;
+}
+.nav2 h1{
+    color: #111;
+    font-family: 'blemo';
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 70px;
+    letter-spacing: -0.5px;
+    padding: 154px 80px 0 ;
+}
+.nav2 h1 span{
+    color: #0075FF;
+}
+.nav2 p{
+    color: #111;
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: -0.1px;
+    padding: 50px 90px 0;
+    margin-bottom: 39.5px;
+}
+.nav2 a {
+    padding: 12px 24px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 28px;
+    background: #000;
+    color: #FFF;
+    text-decoration: none;
+    margin-left: 90px;
+}
+.images{
+    margin: 0 auto;
+    padding:  41px 0 0 89px;
+}
+.r-2{
+    margin: -660px 0 0 16px;
+}
+.r-3{
+    margin: -690px 0 0 43px;
+}
+.r-4{
+    margin: -450px 0 0 320px;
+}
+.r-5{
+    margin: -90px 0 0 -30px;
+}
+.r-6 {
+    margin: -470px 0 500px 30px;
+}
